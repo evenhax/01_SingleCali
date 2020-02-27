@@ -18,5 +18,6 @@ OpenCV3 and boost are require. You can adjust it according to your own environme
 ## Usage
 
 Run the main.cpp, and the demo will work out the calibration process. 
+The finally output will be saved in 
 
 
